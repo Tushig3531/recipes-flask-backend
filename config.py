@@ -31,6 +31,9 @@ def create_app():
             "http://localhost:5500",
             "http://127.0.0.1:5500",
             "http://[::]:5500"
+            "https://your-netlify-subdomain.netlify.app",
+            "https://recipesapps.com",
+            "https://www.recipesapps.com"
         ]}},
         supports_credentials=True
     )
