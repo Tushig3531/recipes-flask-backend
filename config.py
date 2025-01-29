@@ -34,6 +34,7 @@ def create_app():
             "https://your-netlify-subdomain.netlify.app",
             "https://recipesapps.com",
             "https://www.recipesapps.com"
+            "https://recipes-flask-backend-521138187713.us-central1.run.app"
         ]}},
         supports_credentials=True
     )
